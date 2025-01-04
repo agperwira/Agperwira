@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Edy+Pratamajaya!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdulghoffar+Lugas+Aga!;" />
 </h1>
 
 <h3 align="center">Tapping into the Power of AI: Transforming Industries with Innovative Solutions</h3>
 
 - 💬 Ask me about *AI, Machine Learning, Computer Vision, NLP*
 
-- 📫 How to reach me *mmiracle034@gmail.com*
+- 📫 How to reach me *agperwira@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
